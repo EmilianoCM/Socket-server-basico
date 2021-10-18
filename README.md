@@ -1,3 +1,3 @@
 # Socket-server-basico
 
-Con Node-Express
+Servidor de sockets configurado sin lógica de negocio
